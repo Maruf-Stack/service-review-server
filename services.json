@@ -3,35 +3,35 @@
         "name": "Aniversary photography",
         "rating": "4.11",
         "img": "https://framewishes.com/images/styles/rose-flowers-backdrop-happy-wedding-anniversary-photo-frame-free-edit-online_1eaa.jpg",
-        "price": "",
+        "price": "200",
         "description": ""
     },
     {
         "name": "Marriage photography",
         "rating": "5.00",
         "img": "https://5.imimg.com/data5/OH/ZO/PR/SELLER-4528320/muslim-wedding-decoration-1000x1000.jpg",
-        "price": "",
+        "price": "220",
         "description": ""
     },
     {
         "name": "Video recording",
         "rating": "4.50",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWHbCSnzmyDYG1dnM9Sk9eWLbsu8yCX-_pGdoAI162wdLWLVBsrybQiOz5eDRmN9Q4TBU&usqp=CAU",
-        "price": "",
+        "price": "400",
         "description": ""
     },
     {
         "name": "Photo editing",
         "rating": "4.85",
         "img": "https://petapixel.com/assets/uploads/2022/01/lightroom_1-800x450.jpg",
-        "price": "",
+        "price": "100",
         "description": ""
     },
     {
         "name": "video editing",
         "rating": "4.90",
         "img": "https://ventsmagazine.com/wp-content/uploads/2019/12/SViktBfatSoXLPDaG2aTzb.jpg",
-        "price": "",
+        "price": "200",
         "description": ""
     },
     {
@@ -39,6 +39,6 @@
         "rating": "5.00",
         "img": "https://media.istockphoto.com/id/492683865/photo/drone-white-cloudy-dusk-sky.jpg?s=612x612&w=0&k=20&c=kzzV_fu9onBArhMKbE4sxRe4K22fpWK-bd1-PMiJ608=",
         "price": "",
-        "description": ""
+        "description": "500"
     }
 ]
